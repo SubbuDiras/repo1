@@ -1,0 +1,5 @@
+com\personal\Portfolio\repository\ContactFormRepository.class
+com\personal\Portfolio\controller\ContactFormController.class
+com\personal\Portfolio\service\ContactFormService.class
+com\personal\Portfolio\modal\ContactForm.class
+com\personal\Portfolio\PortfolioApplication.class
